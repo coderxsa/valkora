@@ -1,0 +1,15 @@
+{
+    "bot-name": "Valkora",
+    "description": "Valkora made for people on Earth",
+    "logo": "https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/Valkoraa/voice/Pic/valkora.jpg",
+    "keywords": ["bot", "valkora", "whatsapp"],
+    "documentation-link": "https://valkora-sessions.onrender.com/",
+    "owner-verification": "robloxdeved2020@gmail.com",
+    "env": {
+      "SESSION_ID": {
+        "description": "Enter Your SESSION_ID:",
+        "value": "lkora~qTBQySKC#txxxxxxxxxx",
+        "required": true
+      }
+    }
+  }
