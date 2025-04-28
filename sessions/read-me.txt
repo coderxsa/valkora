@@ -1,0 +1,1 @@
+Once you retrieve the session ID, please paste it into the creds.json file.
